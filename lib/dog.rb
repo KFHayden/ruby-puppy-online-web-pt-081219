@@ -21,5 +21,6 @@ class Dog
     @@all.each do |name|
       "#{name}"
     end
+  end
   
 end
